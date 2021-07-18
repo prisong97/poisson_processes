@@ -1,1 +1,3 @@
-# poisson_processes
+### Playground code
+
+An experimentation with Hawkes Processes.
